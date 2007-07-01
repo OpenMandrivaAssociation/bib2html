@@ -1,5 +1,5 @@
 %define name	bib2html
-%define version	5.1
+%define version	6.1
 %define release %mkrel 1
 
 Name:		%{name}
@@ -65,5 +65,3 @@ rm -rf %{buildroot}
 %{_bindir}/*
 %{_mandir}/man1/*
 %lang(fr) %{_mandir}/fr/man1/*
-
-
