@@ -12,7 +12,6 @@ License:	GPL
 Group:		Publishing
 BuildArch:	noarch
 BuildRequires:	perl-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 bib2html is a script which permits to generate a set of HTML pages from a 
