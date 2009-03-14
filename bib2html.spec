@@ -1,13 +1,13 @@
 %define name	bib2html
-%define version	6.1
-%define release %mkrel 3
+%define version	6.3
+%define release %mkrel 1
 
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
 Summary:	BibTeX to HTML translator
-URL:		http://www.arakhne.org/bib2html/
-Source:		http://www.arakhne.org/IMG/gz/%{name}_%{version}-1.tar.bz2
+URL:		http://www.arakhne.org/bib2ml/
+Source:		http://download.tuxfamily.org/arakhne/pool/b/bib2ml/bib2ml_%{version}-0arakhne0.tar.gz
 License:	GPL
 Group:		Publishing
 BuildArch:	noarch
@@ -19,7 +19,7 @@ bib2html is a script which permits to generate a set of HTML pages from a
 BibTeX database.
 
 %prep
-%setup -q
+%setup -q -n bib2ml-%{version}
 
 find . -type d | xargs chmod 755
 find . -type f | xargs chmod 644
