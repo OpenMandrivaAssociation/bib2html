@@ -1,5 +1,5 @@
 %define name	bib2html
-%define version	6.4
+%define version	6.5
 %define release %mkrel 1
 
 Name:		%{name}
@@ -7,11 +7,10 @@ Version:	%{version}
 Release:	%{release}
 Summary:	BibTeX to HTML translator
 URL:		http://www.arakhne.org/bib2ml/
-Source:		http://download.tuxfamily.org/arakhne/pool/b/bib2ml/bib2ml_%{version}-0arakhne0.tar.gz
+Source:		http://download.tuxfamily.org/arakhne/pool/b/bib2ml/bib2ml_%{version}-0arakhne2.tar.gz
 License:	GPL
 Group:		Publishing
 BuildArch:	noarch
-BuildRequires:	perl-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
