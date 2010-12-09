@@ -1,6 +1,6 @@
 %define name	bib2html
 %define version	6.5
-%define release %mkrel 1
+%define release %mkrel 2
 
 Name:		%{name}
 Version:	%{version}
