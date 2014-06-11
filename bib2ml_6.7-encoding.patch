@@ -1,0 +1,42 @@
+--- man/bib2html_fr.pod~	2011-07-27 13:47:29.000000000 +0800
++++ man/bib2html_fr.pod	2013-07-30 17:31:02.217466587 +0800
+@@ -1,3 +1,4 @@
++=encoding ISO8859-1
+ =head1 NOM
+ 
+ bib2html - Script Perl générant des pages HTML à partir de fichiers BibTeX
+--- man/bib2sql_en.pod~	2011-08-01 00:13:19.000000000 +0800
++++ man/bib2sql_en.pod	2013-07-30 17:32:07.969362642 +0800
+@@ -1,3 +1,4 @@
++=encoding ISO8859-1
+ =head1 NAME
+ 
+ bib2sql - A perl script that generates an SQL file for a BibTeX database
+--- man/bib2sql_fr.pod~	2011-08-01 00:13:30.000000000 +0800
++++ man/bib2sql_fr.pod	2013-07-30 17:32:14.639554981 +0800
+@@ -1,3 +1,4 @@
++=encoding ISO8859-1
+ =head1 NOM
+ 
+ bib2sql - Script Perl générant des fichiers SQL à partir de fichiers BibTeX
+--- man/bib2xml_en.pod~	2011-07-27 13:47:41.000000000 +0800
++++ man/bib2xml_en.pod	2013-07-30 17:32:30.560014056 +0800
+@@ -1,3 +1,4 @@
++=encoding ISO8859-1
+ =head1 NAME
+ 
+ bib2xml - A perl script that generates an XML file for a BibTeX database
+--- man/bib2xml_fr.pod~	2011-07-27 13:47:44.000000000 +0800
++++ man/bib2xml_fr.pod	2013-07-30 17:32:36.780193434 +0800
+@@ -1,3 +1,4 @@
++=encoding ISO8859-1
+ =head1 NOM
+ 
+ bib2xml - Script Perl générant des fichiers XML à partir de fichiers BibTeX
+--- man/bib2html_en.pod~	2011-07-27 13:47:25.000000000 +0800
++++ man/bib2html_en.pod	2013-07-30 17:33:52.782384877 +0800
+@@ -1,3 +1,4 @@
++=encoding ISO8859-1
+ =head1 NAME
+ 
+ bib2html - A perl script that generates an HTML documentation for a BibTeX database
