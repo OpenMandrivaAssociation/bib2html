@@ -1,6 +1,6 @@
 Name:		bib2html
 Version:	6.7
-Release:	1
+Release:	2
 Summary:	BibTeX to HTML translator
 
 URL:		http://www.arakhne.org/bib2ml/
