@@ -3,7 +3,7 @@ Version:	6.7
 Release:	3
 Summary:	BibTeX to HTML translator
 
-URL:		http://www.arakhne.org/bib2ml/
+URL:		https://www.arakhne.org/bib2ml/
 Source:		http://download.tuxfamily.org/arakhne/pool/universe/b/bib2ml/bib2ml_%{version}-0arakhne0.tar.gz
 Patch0:		bib2ml_6.7-encoding.patch
 License:	GPL
